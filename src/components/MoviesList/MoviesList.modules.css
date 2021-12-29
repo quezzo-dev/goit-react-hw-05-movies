@@ -1,0 +1,38 @@
+
+.link
+{
+  background: red;
+}
+ul
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: -20px;
+  text-align: center;
+  list-style: none;
+}
+li
+{
+  margin: 20px;
+  width: 300px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  background-color: #ffffff;
+  transition: 0.25s;
+}
+p
+{
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+  text-decoration: none;
+  color: rgb(46, 48, 187);
+  font-size: 20px;
+  text-decoration: none;
+}
+img
+{
+  margin: 0 auto;
+}

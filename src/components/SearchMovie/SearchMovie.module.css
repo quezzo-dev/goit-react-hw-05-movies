@@ -1,0 +1,19 @@
+.form {
+  color: black;
+}
+
+.input {
+  background-color: floralwhite;
+  border-radius: 5px;
+  border: black solid 1px;
+  width: 300px;
+  padding: 2px 5px;
+}
+
+.button {
+  background-color: floralwhite;
+  border-radius: 5px;
+  border: black solid 1px;
+  padding: 2px 5px;
+  margin-left: 2px;
+}
